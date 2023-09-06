@@ -6,7 +6,7 @@ I'm Louis, a french junior developer based near Sophia Antipolis. I studied at *
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css)](https://skillicons.dev)
 
 ### Stack 🖥️
-[![My Skills](https://skillicons.dev/icons?i=docker,git,bash,linux,vscode,django,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,bash,linux,vscode,nginx,django)](https://skillicons.dev)
 
 ### Contact ✉️
 Feel free to reach me at : lxvsws@gmail.com <br/><br/>

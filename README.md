@@ -10,4 +10,3 @@ I'm Louis, a french junior developer based near Sophia Antipolis. I studied at *
 
 ### Contact ✉️
 Feel free to reach me at : lxvsws@gmail.com <br/><br/>
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lw4/)
